@@ -2,3 +2,4 @@
   - [VaneQ 部署](VaneQ_Deploy.md)
   - [VaneQ 镜像制作(Linux)](VaneQ_Image_Linux.md)
   - [VaneQ 镜像制作(Windows)](VaneQ_Image_Windows.md)
+  - [VaneQ 操作手册](VaneQ_操作手册.md)
